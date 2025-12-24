@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=35CE8D&center=true&vCenter=true&width=500&lines=C%23+%26+.NET+Developer;Modüler+Mimari+%26+Refactoring;Hata+Analizi+%26+Loglama;Backend+Teknolojileri" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=35CE8D&center=true&vCenter=true&width=500&lines=C%23+%26+.NET+Developer;Modüler+Mimari+%26+Refactoring;Hata+Analizi+%26+Loglama;Backend+Teknolojileri" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <h3>👨‍💻 Hakkımda</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" style="border-radius: 10px;" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 10px;" />
 
 <p>
   <b> Beykent Üniversitesi - Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.</b>
