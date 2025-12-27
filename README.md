@@ -79,7 +79,7 @@
 | Proje | Rolüm & Katkım | Teknoloji |
 | :--- | :--- | :--- |
 | **[TempMail](https://github.com/Yigito101/TempMail)** | 📬 **Full Stack Geliştirici:** Frontend, Backend ve CLI (Terminal) arasında otonom haberleşme sağlayan, kurulum gerektirmeyen (Zero-Config) yerel SMTP sunucusu geliştirdim. Bellek yönetimi ve XSS güvenliği sağlayan bir mimari kurdum. | `Node.js` `Express` `SMTP` `Vanilla JS` `HTML` |
-| **[Öğrenci Kayıt Sistemi](https://github.com/Yigito101/ogrenci-kayit-sistemi)** | 🛡️ **Refactoring Lead:** Spagetti kod yapısını modüler mimariye taşıdım. Güvenli loglama ve hata yönetimi katmanlarını yazdım. | `C#` `WinForms` `File IO` |
+| **[Öğrenci Kayıt Sistemi](https://github.com/Yigito101/ogrenci-kayit-sistemi)** | 🛡️ **Refactoring Lead:** Spagetti kod (Düzenli Olmayan) yapısını modüler mimariye taşıdım. Güvenli loglama ve hata yönetimi katmanlarını yazdım. (Proje benim değil sadece forkladım) | `C#` `WinForms` `File IO` |
 | **[LinkConverterV2](https://github.com/Yigito101/LinkConverterV2)** | 🔌 **Geliştirici:** Harici kütüphaneler (API) kullanarak video verilerini işleyen ve dönüştüren Arayüz (GUI) destekli otomasyon aracı oluşturdum. | `C#` `WinForms` `NuGet` `API` |
 
 <div align="center">
