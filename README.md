@@ -15,7 +15,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 10px;" />
 
 <p>
-  <b> Beykent Üniversitesi - Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.</b>
+  <b> Beykent Üniversitesi - Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.</b>
   
   <br>
   <a href="https://www.linkedin.com/in/yigityetim101/" target="_blank">
